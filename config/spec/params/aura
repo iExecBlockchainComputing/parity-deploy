@@ -13,5 +13,7 @@
         "eip1052Transition": "0x0",
         "eip1283Transition": "0x0",
         "kip4Transition": "0x0",
-        "kip6Transition": "0x0"
+        "kip6Transition": "0x0",
+        "eip98Transition": "0x7fffffffffffff",
+        "eip86Transition": "0x7fffffffffffff"
     },
