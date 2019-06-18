@@ -18,6 +18,7 @@ reseal_on_txs = "none"
 engine_signer = "ENGINE_SIGNER"
 usd_per_tx = "0"
 min_gas_price = 0
+gas_price_percentile = 0
 
 [websockets]
 disable = false
