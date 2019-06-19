@@ -1,7 +1,7 @@
     "params": {
         "maximumExtraDataSize": "0x20",
         "minGasLimit": "0x0",
-        "gasLimitBoundDivisor": "0x400",
+        "gasLimitBoundDivisor": "0x0",
         "networkID" : "0x11",
         "eip140Transition": "0x0",
         "eip211Transition": "0x0",
