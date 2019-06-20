@@ -20,6 +20,7 @@ engine_signer = "ENGINE_SIGNER"
 #min_gas_price = 0
 #gas_price_percentile = 0
 #gas_floor_target = "0"
+tx_gas_limit = "0x411aa"
 #gas_cap = "0"
 
 [websockets]
